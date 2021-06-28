@@ -54,6 +54,6 @@ for n = 1:Nt-1
     
 end
 
-surf(U) %prey graph
-%surf (V) %predator graph
+surf(U(:,:,Nt))) %prey graph
+%surf(V(:,:,Nt)) %predator graph
 %contour (U) %if you want to plot contour map
