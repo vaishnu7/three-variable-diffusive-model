@@ -1,4 +1,4 @@
-# Three Variable Model ✨
+# Three Variable Diffusive Model ✨
 
 In this model, we implemented finite difference method on *U(x, y, t)* - prey and *V(x, y, t)* - predator.
 - The cell size we have taken as
